@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Computer 1",
+    "apiserver": "http://localhost:3002"
+  },
+  {
+    "name": "Computer 2",
+    "apiserver": "http://localhost:3005"
+  }
+]
