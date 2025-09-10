@@ -5,6 +5,6 @@
   },
   {
     "name": "Computer 2",
-    "apiserver": "http://localhost:3005"
+    "apiserver": "http://localhost:9006"
   }
 ]
