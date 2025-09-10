@@ -1,0 +1,31 @@
+{
+    "app": {
+        "coinType": 0,
+        "compMode": 1,
+        "gpuAutoGrid": false,
+        "gpuEnable": true,
+        "inputFile": "input.txt",
+        "maxFound": 10000,
+        "outputFile": "results.txt",
+        "searchMode": 1
+    },
+    "server": {
+        "enableApi": true,
+        "host": "127.0.0.1",
+        "port": 9090
+    },
+    "status": {
+        "maxStatusFileSize": 10485760,
+        "resume": false,
+        "resumeFile": "resume.txt"
+    },
+    "telegram": {
+        "alertHighTemp": true,
+        "botToken": "8210902730:AAEMwfdlTiZ1APZhM7TTI6RSoYt7FNxu1is",
+        "chatId": "7374027384",
+        "enabled": true,
+        "progressIntervalMinutes": 15,
+        "progressUpdates": true,
+        "tempThreshold": 80.0
+    }
+}

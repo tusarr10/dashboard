@@ -1,0 +1,140 @@
+{
+  "systems": {
+    "10:ff:e0:01:09:G8 (DESKTOP-1V0RRQ2)": {
+      "bloom": {
+        "bits": 11038007994,
+        "bytes": 1379751000,
+        "entries": 383861616,
+        "error_rate": 1e-06,
+        "hash_functions": 20,
+        "timestamp": 1757434659,
+        "timestamp_str": "2025-09-09 21:47:39"
+      },
+      "found": [
+        {
+          "bech32": "bc1q2qlustgnmscezl8hwu42xpaulstfaey8rxgpxp",
+          "id": 1,
+          "p2pkh": "18KKTzc1bKfFExn9m6fdsEGTD9uv3wcRk2",
+          "p2sh": "3MgmMmgHDpKTC6kEoNjtFuhDV2y1evCKd7",
+          "private_key_hex": "500006",
+          "timestamp": 1757107648,
+          "timestamp_str": "2025-09-06 02:57:28",
+          "wif_compressed": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rUrCuUXM6PNV"
+        },
+        {
+          "bech32": "bc1qs9kwvnerw82r9qwdfdhpdkwn9hzcevk2sng8m4",
+          "id": 2,
+          "p2pkh": "1CoLdE7eAXMW8Qj9Hs8h9opKXvCb9cqdam",
+          "p2sh": "39faspjdxmR4kS69xroj8uyazHRCb7gAzb",
+          "private_key_hex": "500004",
+          "timestamp": 1757107648,
+          "timestamp_str": "2025-09-06 02:57:28",
+          "wif_compressed": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rUrCtUkAEUSg"
+        },
+        {
+          "bech32": "bc1q2qlustgnmscezl8hwu42xpaulstfaey8rxgpxp",
+          "id": 3,
+          "p2pkh": "18KKTzc1bKfFExn9m6fdsEGTD9uv3wcRk2",
+          "p2sh": "3MgmMmgHDpKTC6kEoNjtFuhDV2y1evCKd7",
+          "private_key_hex": "500006",
+          "timestamp": 1757107860,
+          "timestamp_str": "2025-09-06 03:01:00",
+          "wif_compressed": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rUrCuUXM6PNV"
+        },
+        {
+          "bech32": "bc1qs9kwvnerw82r9qwdfdhpdkwn9hzcevk2sng8m4",
+          "id": 4,
+          "p2pkh": "1CoLdE7eAXMW8Qj9Hs8h9opKXvCb9cqdam",
+          "p2sh": "39faspjdxmR4kS69xroj8uyazHRCb7gAzb",
+          "private_key_hex": "500004",
+          "timestamp": 1757107861,
+          "timestamp_str": "2025-09-06 03:01:01",
+          "wif_compressed": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rUrCtUkAEUSg"
+        },
+        {
+          "bech32": "bc1q2qlustgnmscezl8hwu42xpaulstfaey8rxgpxp",
+          "id": 5,
+          "p2pkh": "18KKTzc1bKfFExn9m6fdsEGTD9uv3wcRk2",
+          "p2sh": "3MgmMmgHDpKTC6kEoNjtFuhDV2y1evCKd7",
+          "private_key_hex": "500006",
+          "timestamp": 1757168328,
+          "timestamp_str": "2025-09-06 19:48:48",
+          "wif_compressed": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rUrCuUXM6PNV"
+        },
+        {
+          "bech32": "bc1qs9kwvnerw82r9qwdfdhpdkwn9hzcevk2sng8m4",
+          "id": 6,
+          "p2pkh": "1CoLdE7eAXMW8Qj9Hs8h9opKXvCb9cqdam",
+          "p2sh": "39faspjdxmR4kS69xroj8uyazHRCb7gAzb",
+          "private_key_hex": "500004",
+          "timestamp": 1757168330,
+          "timestamp_str": "2025-09-06 19:48:50",
+          "wif_compressed": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rUrCtUkAEUSg"
+        }
+      ],
+      "init": {
+        "config": {
+          "coin_type": "BITCOIN",
+          "comp_mode": "COMPRESSED",
+          "cpu_threads": 0,
+          "device": "GPU",
+          "gpu_gridsize": "256x256",
+          "gpu_ids": [
+            0
+          ],
+          "input_file": "hash160.bin",
+          "max_found": 65536,
+          "output_file": "found.txt",
+          "range_bits": 92,
+          "range_end": "FFFFFFFFFFFFFFFFFFFFFFF",
+          "range_start": "22158500004",
+          "rkey_mkeys": 0,
+          "search_mode": "Multi Address",
+          "sse": true
+        },
+        "system_identifier": "10:ff:e0:01:09:f8 (DESKTOP-1V0RRQ1)",
+        "timestamp": 1757434659,
+        "timestamp_str": "2025-09-09 21:47:39",
+        "version": "CryptoHunt-Cuda v1.00"
+      },
+      "load": {
+        "addresses_loaded": 47982702,
+        "message": "Loaded 47982702 Bitcoin addresses",
+        "timestamp": 1757434659,
+        "timestamp_str": "2025-09-09 21:47:39"
+      },
+      "progress": {
+        "found_count": 0,
+        "keys_scanned": "3,451,408,875,550",
+        "keys_scanned_raw": 3451408875520,
+        "last_key": "544F050000A",
+        "last_update": 1757443220,
+        "last_update_str": "2025-09-10 00:10:20",
+        "mkeys_per_second": 405.64273515723465,
+        "progress_percent": 6.970064716366189e-14
+      },
+      "system": {
+        "cpu": {
+          "cores": 14,
+          "temp_c": -1.0,
+          "usage_percent": 3.0
+        },
+        "gpu": {
+          "clock_mhz": 1455,
+          "fan_percent": 58.0,
+          "memory_total_mb": 6144,
+          "memory_used_mb": 3991,
+          "name": "NVIDIA GeForce RTX 3050",
+          "power_w": 67.4000015258789,
+          "temp_c": 70.0,
+          "usage_percent": 100.0
+        },
+        "memory": {
+          "ram_total_mb": 32603,
+          "ram_usage_percent": 37.6544475,
+          "ram_used_mb": 11949
+        }
+      }
+    }
+  }
+}
